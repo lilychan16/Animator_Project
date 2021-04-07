@@ -10,7 +10,7 @@ import model.Rectangle;
 import static org.junit.Assert.assertEquals;
 
 /**
- * This class is to test IShape interface and all sub-type classes.
+ * This class is to test IShape interface and all sub-type classes
  */
 public class ShapeTest {
   private Position p;
